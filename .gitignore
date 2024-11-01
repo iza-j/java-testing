@@ -30,4 +30,5 @@ bin/
 
 ###
 .idea/
-java-testing.iml
+*.iml
+*.xml
